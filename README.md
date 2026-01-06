@@ -138,10 +138,6 @@ Retail-sales-performance-analytics/
 
 Each script focuses on a specific analytical objective, making the project modular, readable, and easy to extend.
 
-
-
-Each script focuses on a specific analytical objective, making the project modular, readable, and easy to extend.
-
 ---
 
 ## Why This Project Matters
