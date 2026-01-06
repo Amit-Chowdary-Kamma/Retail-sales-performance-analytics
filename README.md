@@ -47,6 +47,11 @@ This project enables stakeholders to:
 - Includes customer, product, and transactional sales tables
 - Data is used locally to execute SQL scripts
 
+Data Source
+
+This project uses a synthetic retail dataset designed to resemble real-world
+sales, customer, and product data. The data is assumed to be preloaded into a
+relational database to focus on SQL-based analysis and business insights.
 
 ---
 
