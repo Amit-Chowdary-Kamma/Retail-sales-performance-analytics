@@ -47,11 +47,6 @@ This project enables stakeholders to:
 - Includes customer, product, and transactional sales tables
 - Data is used locally to execute SQL scripts
 
-Note: Raw datasets are intentionally not included in this repository. This reflects real-world practice where data resides in databases or data platforms, not in version control systems.
-
-Dataset reference:
-- https://www.kaggle.com/datasets/rizwanbinakbar/cleaned-retail-customer-dataset-sql-based-etl
-- https://www.kaggle.com/code/rizwanbinakbar/sql-cleaned-script
 
 ---
 
