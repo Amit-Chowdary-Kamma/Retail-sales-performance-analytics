@@ -128,11 +128,12 @@ Retail-sales-performance-analytics/
 ├── KPI_Metrics.sql
 ├── Business_Summary_Metrics.sql
 ├── Customer_Performance_Report.sql
-├── Product_Performance_Report.sql
 ├── Customer_Performance_Analysis.sql
+├── Product_Performance_Report.sql
 ├── Ranking_Analysis.sql
 ├── Magnitude_Analysis.sql
 └── Advanced_Analysis.sql
+
 
 Each script focuses on a specific analytical objective, making the project modular, readable, and easy to extend.
 
