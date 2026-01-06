@@ -122,6 +122,7 @@ Core concepts used:
 
 ## Repository Structure
 
+```text
 Retail-sales-performance-analytics/
 ├── Schema_Exploration.sql
 ├── Data_Exploration.sql
@@ -133,6 +134,10 @@ Retail-sales-performance-analytics/
 ├── Ranking_Analysis.sql
 ├── Magnitude_Analysis.sql
 └── Advanced_Analysis.sql
+```
+
+Each script focuses on a specific analytical objective, making the project modular, readable, and easy to extend.
+
 
 
 Each script focuses on a specific analytical objective, making the project modular, readable, and easy to extend.
